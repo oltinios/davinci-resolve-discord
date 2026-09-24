@@ -1,17 +1,17 @@
-﻿using System.Diagnostics;
+﻿using System.Data;
+using DiscordRPC;
 
-while (true)
-{
-    bool resolveRunning = Process.GetProcessesByName("Resolve").Length > 0;
+var client = new DiscordRpcClient("1552652487570358283");
 
-    if (resolveRunning)
+client.Initialize();
+
+client.SetPresence(new RichPresence()
     {
-        Console.WriteLine("DaVinci Resolve is running");
+        Details = "DaVinci Resolve",
+        State = "Editing",
     }
-    else
-    {
-        Console.WriteLine("DaVinci Resolve is not running");
-    }
+);
 
-    Thread.Sleep(10000);
-}
+Console.WriteLine("Discord Rich Presence connected!");
+Console.ReadKey();
+Console.ReadKey();

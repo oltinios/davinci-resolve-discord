@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("davinci-resolve-discord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b7e19118083e9a98cf6507f7d6715a3c47410a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+022e0aa6907f4d29be11fc6c55c964b3191a38d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("davinci-resolve-discord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("davinci-resolve-discord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

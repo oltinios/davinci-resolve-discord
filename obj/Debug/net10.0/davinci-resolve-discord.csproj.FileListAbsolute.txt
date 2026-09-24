@@ -13,3 +13,7 @@ C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\refint\davi
 C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.pdb
 C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.genruntimeconfig.cache
 C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\ref\davinci-resolve-discord.dll
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\bin\Debug\net10.0\DiscordRPC.dll
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.csproj.AssemblyReference.cache
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-.91144AE0.Up2Date
