@@ -1,0 +1,15 @@
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\bin\Debug\net10.0\davinci-resolve-discord.exe
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\bin\Debug\net10.0\davinci-resolve-discord.deps.json
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\bin\Debug\net10.0\davinci-resolve-discord.runtimeconfig.json
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\bin\Debug\net10.0\davinci-resolve-discord.dll
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\bin\Debug\net10.0\davinci-resolve-discord.pdb
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.AssemblyInfoInputs.cache
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.AssemblyInfo.cs
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.csproj.CoreCompileInputs.cache
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.sourcelink.json
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.dll
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\refint\davinci-resolve-discord.dll
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.pdb
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\davinci-resolve-discord.genruntimeconfig.cache
+C:\Users\Atis\Olt Projects\davinci-resolve-discord\obj\Debug\net10.0\ref\davinci-resolve-discord.dll
